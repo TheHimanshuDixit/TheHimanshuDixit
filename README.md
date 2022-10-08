@@ -18,9 +18,6 @@
 <h3>🛠 Tech Stack</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=anthon&size=26&duration=5002&color=D32EFF&lines=C%2FC%2B%2B;HTML+%7C+CSS+%7C+JavaScript+%7C+HTML5;MySQL+%7C+Oracle;Visual+Studio+code+%7C+Git)](https://git.io/typing-svg)
-
-
-
 - 💻 C/C++
 
 - 🌐 HTML | CSS | JavaScript |HTML5
@@ -37,7 +34,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thehimanshudixit&count_private=true&theme=algolia&show_icons=true&hide=issues" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehimanshudixit&theme=github-dark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D" /></p><hr>
-<p align="center"> Visitors count:<br><img src="https://profile-counter.glitch.me/Amanuttam1192/count.svg" /></p>
+<p align="center"> Visitors count:<br><img src="https://profile-counter.glitch.me/thehimanshudixit/count.svg" /></p>
 
 <h2 align="left">Sab Dekh Kr Jana......</h2>
 
