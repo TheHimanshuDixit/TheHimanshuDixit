@@ -46,11 +46,11 @@
 | [![Instagram](https://img.shields.io/badge/Instagram-F60023?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhimanshu_02/) |This is the best place,Most active,Come here any time. |
 | [![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TheHimanshuDixit) | That's exactly what you're seeing right now. Head over to the repositories for more. |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-dixit-009hd) | More professional, I guess. You'll find my professional history there. |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://linkedin.com/in/himanshu-dixit-009hd) | 1st Platform where I started my CP. |
-| [![CodeForces](https://img.shields.io/badge/CodeForces-F60023?style=for-the-badge&logo=instagram&logoColor=white)](https://linkedin.com/in/himanshu-dixit-009hd) | After Codechef, lets see Codeforces. |
-| [![HackerRank](https://img.shields.io/badge/-HackerRank-181717?style=for-the-badge&logo=Github&logoColor=white)](https://linkedin.com/in/himanshu-dixit-009hd) | Platform Where I practice my skill. |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-dixit-009hd) | Platform Where I practice my DSA. |
-| [![GFG](https://img.shields.io/badge/GFG-00FF00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-dixit-009hd) | Not so much practice in this Platform. |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-%2336465D.svg?&style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/diggi_coder02) | 1st Platform where I started my CP. |
+| [![CodeForces](https://img.shields.io/badge/CodeForces-F60023?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/himanshu_d) | After Codechef, lets see Codeforces. |
+| [![HackerRank](https://img.shields.io/badge/-HackerRank-181717?style=for-the-badge&logo=hackerank&logoColor=white)](https://www.hackerrank.com/himanshuharshdi1) | Platform Where I practice my skill. |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/diggi_coder02) | Platform Where I practice my DSA. |
+| [![GFG](https://img.shields.io/badge/GFG-00FF00?style=for-the-badge&logo=gfg&logoColor=white)](https://auth.geeksforgeeks.org/user/himanshuharshdixit) | Not so much practice in this Platform. |
 
 
 
