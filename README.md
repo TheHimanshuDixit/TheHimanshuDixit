@@ -1,6 +1,6 @@
 ![MasterHead](https://coder.com/og-image.png)
 <h1 align="center">Hi 👋, I'm Himanshu Dixit</h1>
-<h3 align="center">A passionate frontend developer and a problem solver</h3>
+<h3 align="center">A passionate Wed Developer and a Problem Solver</h3>
 <h2>BONJURE 👋</h2>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 <h3> 💻 About Me </h3>
