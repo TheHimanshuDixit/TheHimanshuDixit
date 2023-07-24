@@ -21,9 +21,9 @@
 - 💻 C/C++
 
 - 🌐 HTML | CSS | JavaScript | HTML5
-- 
+  
 - 🌐 React Js | Next Js | Node Js | Express Js | PHP
-- 
+  
 - 🌐 Tailwind CSS | Bootstrap
 
 - 🛢 SQL | MySQL | MongoDB
